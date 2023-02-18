@@ -1,0 +1,13 @@
+name: shiny_vocab
+title: shiny_vocab
+username:
+account: sam-lee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8352817
+bundleId: 6862213
+url: https://sam-lee.shinyapps.io/shiny_vocab/
+when: 1676762182.43159
+lastSyncTime: 1676762182.4316
+asMultiple: FALSE
+asStatic: FALSE
